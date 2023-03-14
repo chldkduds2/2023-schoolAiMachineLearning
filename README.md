@@ -8,12 +8,12 @@
   <h5>소속학교 : 대구소프트웨어마이스터고등학교</h5>
   <hr/>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chldkduds2&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chldkduds2&show_icons=true&theme=radical)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chldkduds2&layout=compact)](https://github.com/chldkduds2/github-readme-stats)
 
-https://github.com/chldkduds2
+[MyGitHub](https://github.com/chldkduds2)
 
 
 
