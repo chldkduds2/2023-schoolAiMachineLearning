@@ -13,7 +13,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chldkduds2&layout=compact)](https://github.com/chldkduds2/github-readme-stats)
 
-<a href='https://github.com/chldkduds2>GitHub</a>
+https://github.com/chldkduds2
 
 
 
